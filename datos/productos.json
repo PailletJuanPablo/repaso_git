@@ -1,0 +1,6 @@
+[
+  { "nombre": "Mouse 1", "categoria": "Mouses", "precio": 500 },
+  { "nombre": "Mouse 2 ", "categoria": "Mouses", "precio": 750 },
+  { "nombre": "Monitor 17 pulgadas", "categoria": "Pantallas", "precio": 1500 },
+  { "nombre": "Monitor 21 pulgadas", "categoria": "Pantallas", "precio": 2000 }
+]
